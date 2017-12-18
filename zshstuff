@@ -1,0 +1,9 @@
+
+alias ws="cd ~/Workspace/"
+alias pg="cd ~/Workspace/Playground"
+alias dl="cd ~/Downloads/"
+alias db="cd ~/Dropbox/"
+alias venvactivate="source venv/bin/activate"
+alias venvcreate="virtualenv -p python3 venv"
+alias nvimconfig="nvim ~/.config/nvim/init.vim"
+alias zshconfig="nvim ~/.zshrc"
